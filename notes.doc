@@ -1,0 +1,12 @@
+project 1 pipe line.....
+
+Install Required Libraries (pip)
+Import Required Libraries
+Load the Dataset
+Preprocess/Clean the Data
+Split the Dataset (Train/Test)
+select the model
+fit the Train data
+Make Predictions on test data
+Evaluate the Model
+Display the Output/Results
