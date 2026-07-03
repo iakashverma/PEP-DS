@@ -1,4 +1,4 @@
-# PEP-DS 📊
+# PEP-DATA SCIENCE 📊
 
 Welcome to **PEP-DS**, my personal repository for documenting my daily learning journey in **Data Science** through PEP classes.
 
